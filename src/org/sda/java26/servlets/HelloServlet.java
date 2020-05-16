@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-// http://localhost:8080/hello
+// http://localhost:8080/hello?name=Krzysztof
 @WebServlet(name = "helloServlet", value = "/hello")
 public class HelloServlet extends HttpServlet {
 
