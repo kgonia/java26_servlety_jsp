@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Title</title>
+    <%@ include file="header.jsp"%>
 </head>
 
 <%!
@@ -28,5 +29,6 @@ Jakiś tekst
     out.println(var);
 %>
 
+<%@ include file="footer.jsp"%>
 </body>
 </html>
