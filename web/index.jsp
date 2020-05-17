@@ -5,6 +5,7 @@
    <%@ include file="header.jsp"%>
 </head>
 <body>
+<%@ include file="menu.jsp"%>
 
 <div class="container">
     <h1>Hello World</h1>

@@ -12,6 +12,9 @@
 %>
 
 <body>
+<%@ include file="menu.jsp"%>
+
+
 Jakiś tekst
 <br>
 
