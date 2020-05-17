@@ -10,3 +10,5 @@ Menu:
 <br>
 <a href="wbudowane.jsp">Zmienne wbudowane</a>
 <br>
+<a href="todo.jsp">Lista TODO, przykład użycia sesji</a>
+<br>
